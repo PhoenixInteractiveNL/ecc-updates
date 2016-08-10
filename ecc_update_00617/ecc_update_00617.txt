@@ -1,0 +1,20 @@
+-------------------------------------------------------------------------------
+- ECC DATfile updates
+-------------------------------------------------------------------------------
+
+- Updated DAT files for:
+
+CPS-1  : v0.153 to v0.159 (mame)
+CPS-2  : v0.153 to v0.159 (mame)
+CPS-3  : v0.153 to v0.159(mame)
+MAME   : v0.153 to v0.159
+MODEL1 : v0.153 to v0.159 (mame)
+MODEL2 : v0.153 to v0.159 (mame)
+NAOMI  : v0.153 to v0.159 (mame)
+NEOGEO : v0.153 to v0.159 (mame)
+PGM    : v0.153 to v0.159 (mame)
+S11    : v0.153 to v0.159 (mame)
+S16    : v0.153 to v0.159 (mame)
+S18    : v0.153 to v0.159 (mame)
+S22    : v0.153 to v0.159 (mame)
+ZINC   : v0.153 to v0.159 (mame)
