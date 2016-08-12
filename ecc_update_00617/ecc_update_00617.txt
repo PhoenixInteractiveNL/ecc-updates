@@ -1,6 +1,0 @@
--------------------------------------------------------------------------------
-- ECC user folders fix
--------------------------------------------------------------------------------
-
-- Fix ecc-user folder structure in ECC, seems that empty folders are not stored
-  on github with desktop GIT.
