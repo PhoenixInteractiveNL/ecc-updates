@@ -7,6 +7,25 @@ This way you won't need to download a new version of ECC everytime.
 
 LAST UPDATES:
 
+Update 00621 2016-09-03
+- CORE
+  - Fixed link to TAB help on mainscreen to readme.md.
+  - Manager: ecccli_datFileImporter.php, Fixed database fixed location, now reading ecc settings.
+  - Fixed and added function to start SQlite browser without the autoit3 script!
+- ECC Startup
+  - v3.0.0.2
+    - Using animated GIF instead of AVI for loading animations, you can make you own easily now!
+      You can find instructions at emuControlCenter WIKI on GitHub.
+- ECC Tool variables
+  - v1.0.0.1
+    - Added new variables for eccdb, now reading ecc settings.
+- SOURCE
+  - Added new resource file "ecc_splashscreen_borders.psd" this is a reworked splashscreen combination.
+- THEMES
+  - Added loading aimation for theme: afterhours, miss-kit-purple
+  - Removed incomplete themes: miss-kit-bubblegum, green-grass, nature-full-green
+    (Only on fresh installations)
+
 Update 00620 2016-09-02
 - CORE
   - Reworked configuration GUI, placed options together where needed, deleted old options and TABS.
@@ -38,7 +57,6 @@ Update 00619 2016-08-13
   - Amiga Gamebase v1.6 to v2.0
 - 3RD Party updates
   - Mplayer Redxii-SVN-r37153-4.8.2 to Redxii-SVN-r37871-4.9.3 (i686)
-
 
 Update 00618 2016-08-12
 - ECC SOURCE files released!, they include:
