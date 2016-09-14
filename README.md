@@ -9,7 +9,7 @@ LAST UPDATES:
 
 ----- ECC v1.21 -----
 
-Update 00622 2016-09-10
+Update 00622 2016-09-14
 - CORE
   - Added 3 new metadata fields to ECC database and GUI, also being exported from and imported to ECC.
     - Perspective, Visual, Description
