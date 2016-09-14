@@ -7,6 +7,21 @@ This way you won't need to download a new version of ECC everytime.
 
 LAST UPDATES:
 
+----- ECC v1.21 -----
+
+Update 00622 2016-09-10
+- CORE
+  - Added 3 new metadata fields to ECC database and GUI, also being exported from and imported to ECC.
+    - Perspective, Visual, Description
+  - Some Code and GUI cleanup.
+  - Mobygames
+    - v1.2.0.0
+      - Added new fields to fill Perspective, Visual
+      - Description now in the META data location (instead of userdata)
+  - ECC Tool variables
+      - v1.0.0.8
+        - Fixed an issue where the database could not be found at the "default" location.
+
 Update 00621 2016-09-03
 - CORE
   - Fixed link to TAB help on mainscreen to readme.md.
