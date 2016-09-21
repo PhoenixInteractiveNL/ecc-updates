@@ -1,0 +1,13 @@
+----- ECC v1.2x -----
+
+UPDATE 00624
+- CORE
+  - Updated PHP-GTK Glade3 GUI from v3.4.3 to v3.6.1.
+  - Reworked all GLADE GUI's due to update, some icons have been changed/added.
+
+UPDATE 00623
+- eccUpdate!
+  - v1.2.0.2 (2016.09.15)
+    - Fixed a bug where eccUpdate! could not find the last updatete from the server correctly. 
+
+----- ECC v1.21 -----
