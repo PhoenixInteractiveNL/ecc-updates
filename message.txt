@@ -1,5 +1,5 @@
-Read the WEBSITE/FORUM for more info about updates!
+Read the WEBSITE/FORUM for more info about updates!, 
 
-WEBSITE: https://github.com/PhoenixInteractiveNL/emuControlCenter/wiki
+WEBSITE: https://github.com/PhoenixInteractiveNL/emuControlCenter/wiki, 
 
 FORUM: http://eccforum.phoenixinteractive.nl
