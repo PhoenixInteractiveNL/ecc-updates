@@ -1,3 +1,9 @@
+UPDATE 00640
+- Thirdparty
+  - HxD HEXeditor v1.7.7.0 to v2.1.0.0 (2018-09-27)
+  - MPlayer Redxii-SVN-r37871-4.9.3 (i686) to Redxii-SVN-r38119-6.2.0 (i686) (2018-12-25)
+  - Notepad++ v6.9.2 (2016-05-18) to v7.6.1
+
 UPDATE 00639
 - Thirdparty
   - 7zip v16.04 (2016-10-04) to v18.05 (2018-04-30)
