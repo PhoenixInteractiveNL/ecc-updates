@@ -1,7 +1,3 @@
-UPDATE 00639
-- Thirdparty
-  - 7zip v16.04 (2016-10-04) to v18.05 (2018-04-30)
-
 UPDATE 00638
 - Added platforms
   - Videoton TV-Computer
