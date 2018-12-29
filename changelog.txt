@@ -1,3 +1,9 @@
+UPDATE 00641
+- ECC Startup 3.0.0.5
+  - Thirdparty tool World of Joystick filename changed.
+- Thirdparty
+  - World of Joystick (WOJ) v1.57 to v1.59 (2018-09-30)
+
 UPDATE 00640
 - Thirdparty
   - HxD HEXeditor v1.7.7.0 to v2.1.0.0 (2018-09-27)
