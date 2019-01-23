@@ -1,3 +1,6 @@
+UPDATE 00644
+- ECC v1.23 (see changelog)
+
 UPDATE 00643
 - ECC DAT file updater v1.3.0.2
   - Updated "NeoGeo" datfile extract naming to match MAME v2.00+
